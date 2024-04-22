@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">portfolio6</string>
+    <string name="directions">Click a Button to Reveal a Character</string>
+    <string name="character1_label">Character 1</string>
+    <string name="character2_label">Character 2</string>
+    <string name="character3_label">Character 3</string>
+    <string name="character4_label">Character 4</string>
+    <string name="character5_label">Character 5</string>
+    <string name="character6_label">Character 6</string>
+</resources>

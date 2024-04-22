@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">portfolio5</string>
+    <string-array name="pizza_toppings">
+        <item>Sausage</item>
+        <item>Pepperoni</item>
+        <item>Ham</item>
+        <item>Pineapple</item>
+        <item>Onion</item>
+    </string-array>
+
+    <string name="xml_label">Data from XML file</string>
+    <string name="array_label">Data from an array of strings</string>
+    <string name="list_label">List of stuff</string>
+</resources>

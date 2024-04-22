@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">portfolio1</string>
+
+    <string name="title_string">Calculator</string>
+    <string name="num1_content_string">Enter 1st number</string>
+    <string name="num2_content_string">Enter 2nd number</string>
+    <string name="num1_label">First Number</string>
+    <string name="num2_label">Second Number</string>
+    <string name="add_button_label">+</string>
+    <string name="answer_content_string">Answer Displays Here</string>
+    <string name="clear_button_label">Clear the Values</string>
+</resources>

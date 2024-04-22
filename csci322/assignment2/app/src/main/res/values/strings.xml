@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="string_a">Enter "a" term</string>
+    <string name="string_b">Enter "b" term</string>
+    <string name="string_c">Enter "c" term</string>
+    <string name="string_calc">Calculate</string>
+    <string name="string_clear">Clear all values</string>
+    <string name="string_ans1">Answer 1</string>
+    <string name="string_ans2">Answer 2</string>
+</resources>
